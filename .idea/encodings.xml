@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/fastdfs-client-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fastdfs-client-java/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gamll0401-parent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gamll0401-parent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall0401-bean/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall0401-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall0401-item-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall0401-list-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall0401-list-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall0401-manage-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall0401-manage-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall0401-order-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall0401-passport-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall0401-user-manage-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall0401-user-manage-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall0401-utill-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall0401-utill-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall0401-utill-web/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

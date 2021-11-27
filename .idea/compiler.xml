@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gmall0401-utill-web" />
+        <module name="gmall0401-order-web" />
+        <module name="gmall0401-interface" />
+        <module name="gmall0401-manage-web" />
+        <module name="gmall0401-list-service" />
+        <module name="gmall0401-item-web" />
+        <module name="gmall0401-utill-service" />
+        <module name="gmall0401-bean" />
+        <module name="gmall0401-utill-common" />
+        <module name="fastdfs-client-java" />
+        <module name="gmall0401-passport-web" />
+        <module name="gmall0401-list-web" />
+        <module name="gmall0401-user-manage-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fastdfs-client-java" target="1.8" />
+      <module name="gamll0401-parent" target="1.8" />
+      <module name="gmall-item-web" target="1.8" />
+      <module name="gmall0401-bean" target="1.8" />
+      <module name="gmall0401-interface" target="1.8" />
+      <module name="gmall0401-item-web" target="1.8" />
+      <module name="gmall0401-list-service" target="1.8" />
+      <module name="gmall0401-list-web" target="1.8" />
+      <module name="gmall0401-manage-service" target="1.8" />
+      <module name="gmall0401-manage-web" target="1.8" />
+      <module name="gmall0401-order-web" target="1.8" />
+      <module name="gmall0401-passport-web" target="1.8" />
+      <module name="gmall0401-user-manage-service" target="1.8" />
+      <module name="gmall0401-utill-common" target="1.8" />
+      <module name="gmall0401-utill-service" target="1.8" />
+      <module name="gmall0401-utill-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="gmall-item-web" options="-parameters" />
+      <module name="gmall0401-item-web" options="" />
+      <module name="gmall0401-list-service" options="" />
+      <module name="gmall0401-list-web" options="" />
+      <module name="gmall0401-manage-service" options="" />
+      <module name="gmall0401-manage-web" options="" />
+      <module name="gmall0401-order-web" options="" />
+      <module name="gmall0401-passport-web" options="" />
+    </option>
+  </component>
+</project>

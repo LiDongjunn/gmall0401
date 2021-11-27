@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fastdfs-client-java/fastdfs-client-java.iml" filepath="$PROJECT_DIR$/fastdfs-client-java/fastdfs-client-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamll0401-parent/gamll0401-parent.iml" filepath="$PROJECT_DIR$/gamll0401-parent/gamll0401-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gmall0401.iml" filepath="$PROJECT_DIR$/.idea/gmall0401.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0401-bean/gmall0401-bean.iml" filepath="$PROJECT_DIR$/gmall0401-bean/gmall0401-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0401-interface/gmall0401-interface.iml" filepath="$PROJECT_DIR$/gmall0401-interface/gmall0401-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0401-item-web/gmall0401-item-web.iml" filepath="$PROJECT_DIR$/gmall0401-item-web/gmall0401-item-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0401-list-service/gmall0401-list-service.iml" filepath="$PROJECT_DIR$/gmall0401-list-service/gmall0401-list-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0401-list-web/gmall0401-list-web.iml" filepath="$PROJECT_DIR$/gmall0401-list-web/gmall0401-list-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0401-manage-web/gmall0401-manage-web.iml" filepath="$PROJECT_DIR$/gmall0401-manage-web/gmall0401-manage-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0401-order-web/gmall0401-order-web.iml" filepath="$PROJECT_DIR$/gmall0401-order-web/gmall0401-order-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0401-passport-web/gmall0401-passport-web.iml" filepath="$PROJECT_DIR$/gmall0401-passport-web/gmall0401-passport-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0401-user-manage-service/gmall0401-user-manage-service.iml" filepath="$PROJECT_DIR$/gmall0401-user-manage-service/gmall0401-user-manage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0401-utill-common/gmall0401-utill-common.iml" filepath="$PROJECT_DIR$/gmall0401-utill-common/gmall0401-utill-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0401-utill-service/gmall0401-utill-service.iml" filepath="$PROJECT_DIR$/gmall0401-utill-service/gmall0401-utill-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0401-utill-web/gmall0401-utill-web.iml" filepath="$PROJECT_DIR$/gmall0401-utill-web/gmall0401-utill-web.iml" />
+    </modules>
+  </component>
+</project>
